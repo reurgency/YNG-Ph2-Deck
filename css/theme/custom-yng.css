@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Lobster+Two:400,700,700italic|Chivo:400,900);
+/*@import url(http://fonts.googleapis.com/css?family=Lobster+Two:400,700,700italic|Chivo:400,900);*/
 /**
  * Beige theme for reveal.js.
  *
@@ -50,8 +50,8 @@ body {
   color: #333333;
   font-family: "League Gothic", Impact, sans-serif;
   line-height: 0.9em;
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
+  /*letter-spacing: 0.02em;*/
+  /*text-transform: uppercase;*/
   text-shadow: none; }
 
 .reveal h1 {

@@ -1,3 +1,4 @@
+
 body{
     font-family: 'Chivo', 'Proxima Nova', sans-serif;
     background-color: #f7f2d3;
@@ -17,9 +18,11 @@ body{
 
 .jumbo{
     font-size: 120px;
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Lobster', cursive;
 }
 
-.lobster{
+h1.lobster, h2.lobster, h3.lobster, h4.lobster,  h5.lobster, p.lobster {
     font-family: 'Lobster Two', cursive;
+    font-weight: bold;
+    font-style: italic;
 }
