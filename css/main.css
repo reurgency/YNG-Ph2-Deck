@@ -21,6 +21,9 @@ body{
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5{
     font-family: 'Chivo', 'Proxima Nova', sans-serif;
     font-weight: bold;
+}
+
+p.red, h1.red, h2.red, h3.red, h4.red, h5.red{
     color: #dc4144;
 }
 
