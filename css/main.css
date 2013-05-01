@@ -36,3 +36,9 @@ h1.lobster, h2.lobster, h3.lobster, h4.lobster,  h5.lobster, p.lobster {
     font-weight: bold;
     font-style: italic;
 }
+
+.reveal section img.img-basic{
+    border: none;
+    box-shadow: none;
+    background: none;
+}
