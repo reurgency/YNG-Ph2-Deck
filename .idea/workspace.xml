@@ -3,16 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
     </list>
     <ignored path="YPhase2Deck.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/a.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367355188298" ignored="false" />
     <file path="/a.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367355229595" ignored="false" />
-    <file path="/index.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367448032790" ignored="false" />
+    <file path="/index.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367449673791" ignored="false" />
     <file path="/main.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367448704842" ignored="false" />
     <file path="/Dummy.txt" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367445203704" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367448728807" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367449679503" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +31,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="341" column="28" selection-start="12743" selection-end="12743" vertical-scroll-proportion="-14.37037">
-              <folding />
+            <state line="48" column="20" selection-start="1961" selection-end="1961" vertical-scroll-proportion="0.7166124">
+              <folding>
+                <element signature="n#style#0;n#img#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="4" selection-start="362" selection-end="362" vertical-scroll-proportion="0.17350158">
+            <state line="11" column="4" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -78,8 +79,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/theme/custom-yng.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -388,7 +389,9 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="157" column="60" selection-start="5221" selection-end="5221" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -427,13 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../YNG-Ph2-Deck-X/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="54" selection-start="680" selection-end="730" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/theme/default.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="28" selection-start="767" selection-end="1364" vertical-scroll-proportion="0.015936255">
@@ -448,17 +444,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="341" column="28" selection-start="12743" selection-end="12743" vertical-scroll-proportion="-14.37037">
+        <state line="11" column="4" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="4" selection-start="362" selection-end="362" vertical-scroll-proportion="0.17350158">
-          <folding />
+        <state line="48" column="20" selection-start="1961" selection-end="1961" vertical-scroll-proportion="0.7166124">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
