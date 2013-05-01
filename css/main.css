@@ -8,6 +8,7 @@ body{
     background: -ms-radial-gradient(center, circle cover, #ffffff 0%, #f7f2d3 100%);
     background: radial-gradient(center, circle cover, #ffffff 0%, #f7f2d3 100%);
     background-color: #f7f2d3;
+    background-image: url("../img/bg_tantexture.png");
 }
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5{
