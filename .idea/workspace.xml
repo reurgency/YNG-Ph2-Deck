@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index-bak.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/theme/custom-yng.css" afterPath="$PROJECT_DIR$/css/theme/custom-yng.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="YPhase2Deck.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/a.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367355188298" ignored="false" />
     <file path="/a.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367355229595" ignored="false" />
-    <file path="/index.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367447334587" ignored="false" />
-    <file path="/main.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367447347126" ignored="false" />
+    <file path="/index.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367448032790" ignored="false" />
+    <file path="/main.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367448704842" ignored="false" />
     <file path="/Dummy.txt" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367445203704" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367448728807" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,25 +35,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="88" selection-start="130" selection-end="130" vertical-scroll-proportion="-2.9629629">
+            <state line="341" column="28" selection-start="12743" selection-end="12743" vertical-scroll-proportion="-14.37037">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="23" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
+            <state line="11" column="4" selection-start="362" selection-end="362" vertical-scroll-proportion="0.17350158">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom-yng.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="custom-yng.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/theme/custom-yng.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="11" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.84462154">
+            <state line="53" column="11" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,9 +77,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/css/theme/custom-yng.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/css/theme/custom-yng.css" />
       </list>
     </option>
   </component>
@@ -443,23 +441,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme/custom-yng.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="11" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="88" selection-start="130" selection-end="130" vertical-scroll-proportion="-2.9629629">
+        <state line="341" column="28" selection-start="12743" selection-end="12743" vertical-scroll-proportion="-14.37037">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="23" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme/custom-yng.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="11" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.84462154">
+        <state line="11" column="4" selection-start="362" selection-end="362" vertical-scroll-proportion="0.17350158">
           <folding />
         </state>
       </provider>

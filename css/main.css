@@ -5,9 +5,17 @@ body{
     background: url("../img/img_raysoverlay.png") top center no-repeat, url("../img/bg_tantexture.png") repeat;
 }
 
-.reveal{
-    background-attachment: fixed;
-    /*background: #ffffff url("../img/img_raysoverlay.png") top center no-repeat;*/
+.logo{
+    background: url("../img/logo_reUrgency_180x130.png") no-repeat;
+    background-size: 140px 100px;
+    -webkit-background-size: 140px 100px;
+    opacity: 0.5;
+    position: fixed;
+    width: 140px;
+    height: 100px;
+    z-index: 20;
+    left: 10px;
+    bottom: 10px;
 }
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5{
@@ -16,9 +24,8 @@ body{
     color: #dc4144;
 }
 
-.jumbo{
+h1.jumbo, h2.jumbo{
     font-size: 120px;
-    font-family: 'Lobster', cursive;
 }
 
 h1.lobster, h2.lobster, h3.lobster, h4.lobster,  h5.lobster, p.lobster {
