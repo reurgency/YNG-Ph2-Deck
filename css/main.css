@@ -5,7 +5,20 @@ body{
     background: url("../img/img_raysoverlay.png") top center no-repeat, url("../img/bg_tantexture.png") repeat;
 }
 
-.logo{
+.logo-yng{
+    background: url("../img/90forlife_logo.png") no-repeat;
+    background-size: 140px 105px;
+    -webkit-background-size: 140px 105px;
+    opacity: 0.75;
+    position: fixed;
+    width: 140px;
+    height: 105px;
+    z-index: 21;
+    left: 10px;
+    top: 10px;
+}
+
+.logo-reurgency{
     background: url("../img/logo_reUrgency_180x130.png") no-repeat;
     background-size: 140px 100px;
     -webkit-background-size: 140px 100px;
