@@ -3,14 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="YPhase2Deck.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/a.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367355188298" ignored="false" />
     <file path="/a.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367355229595" ignored="false" />
-    <file path="/index.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367618345124" ignored="false" />
+    <file path="/index.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367619145819" ignored="false" />
     <file path="/main.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367616813382" ignored="false" />
-    <file path="/Dummy.txt" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367616953039" ignored="false" />
+    <file path="/Dummy.txt" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367619052882" ignored="false" />
     <file path="/custom-yng.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367617007263" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="171" column="27" selection-start="6823" selection-end="6823" vertical-scroll-proportion="0.3579952">
+            <state line="69" column="37" selection-start="3011" selection-end="3011" vertical-scroll-proportion="0.40572792">
               <folding />
             </state>
           </provider>
@@ -227,8 +228,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -479,7 +480,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="171" column="27" selection-start="6823" selection-end="6823" vertical-scroll-proportion="0.3579952">
+        <state line="69" column="37" selection-start="3011" selection-end="3011" vertical-scroll-proportion="0.40572792">
           <folding />
         </state>
       </provider>
