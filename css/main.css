@@ -26,6 +26,9 @@ body{
 p.red, h1.red, h2.red, h3.red, h4.red, h5.red{
     color: #dc4144;
 }
+p.green, h1.green, h2.green, h3.green, h4.green, h5.green{
+    color: #639e33;
+}
 
 h1.jumbo, h2.jumbo{
     font-size: 120px;
