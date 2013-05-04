@@ -61,12 +61,12 @@ h1.lobster, h2.lobster, h3.lobster, h4.lobster,  h5.lobster, p.lobster {
 
 div.large-div img.zoomed{
     position: fixed;
-    left: 16%;
-    top: -45%;
+    left: 22%;
+    top: -40%;
     max-height: 180%;
 }
 div.large-div{
-    height: 700px;
+    height: 600px;
 }
 
 .pull-left{
