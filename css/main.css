@@ -9,7 +9,7 @@ body{
     background: url("../img/90forlife_logo.png") no-repeat;
     background-size: 140px 105px;
     -webkit-background-size: 140px 105px;
-    opacity: 0.75;
+    opacity: 0.5;
     position: fixed;
     width: 140px;
     height: 105px;
@@ -22,7 +22,7 @@ body{
     background: url("../img/logo_reUrgency_180x130.png") no-repeat;
     background-size: 140px 100px;
     -webkit-background-size: 140px 100px;
-    opacity: 0.5;
+    opacity: 0.35;
     position: fixed;
     width: 140px;
     height: 100px;
