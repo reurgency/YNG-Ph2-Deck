@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/theme/custom-yng.css" afterPath="$PROJECT_DIR$/css/theme/custom-yng.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="YPhase2Deck.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/a.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367355188298" ignored="false" />
     <file path="/a.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367355229595" ignored="false" />
-    <file path="/index.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367619145819" ignored="false" />
-    <file path="/main.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367616813382" ignored="false" />
-    <file path="/Dummy.txt" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367619052882" ignored="false" />
-    <file path="/custom-yng.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367617007263" ignored="false" />
+    <file path="/index.html" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367626964619" ignored="false" />
+    <file path="/main.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367625887222" ignored="false" />
+    <file path="/Dummy.txt" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367620169944" ignored="false" />
+    <file path="/custom-yng.css" changelist="e504ba5e-b6aa-46cc-b7b8-017e90b1a3ce" time="1367621002910" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,16 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="37" selection-start="3011" selection-end="3011" vertical-scroll-proportion="0.40572792">
+            <state line="180" column="0" selection-start="7169" selection-end="7169" vertical-scroll-proportion="0.54653937">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-orig.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-orig.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="146" column="39" selection-start="4655" selection-end="4665" vertical-scroll-proportion="-5.2115383">
               <folding />
             </state>
           </provider>
@@ -44,7 +55,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="18" selection-start="1291" selection-end="1291" vertical-scroll-proportion="0.0">
+            <state line="67" column="0" selection-start="1499" selection-end="1499" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -53,7 +64,7 @@
       <file leaf-file-name="custom-yng.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/theme/custom-yng.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="0" selection-start="2765" selection-end="2765" vertical-scroll-proportion="0.0">
+            <state line="90" column="34" selection-start="3171" selection-end="3171" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -228,8 +239,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -385,13 +396,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/theme/custom-yng.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="11" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.0">
@@ -466,21 +470,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme/custom-yng.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="0" selection-start="2765" selection-end="2765" vertical-scroll-proportion="0.0">
+        <state line="90" column="34" selection-start="3171" selection-end="3171" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="18" selection-start="1291" selection-end="1291" vertical-scroll-proportion="0.0">
+        <state line="67" column="0" selection-start="1499" selection-end="1499" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-orig.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="39" selection-start="4655" selection-end="4665" vertical-scroll-proportion="-5.2115383">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="37" selection-start="3011" selection-end="3011" vertical-scroll-proportion="0.40572792">
+        <state line="180" column="0" selection-start="7169" selection-end="7169" vertical-scroll-proportion="0.54653937">
           <folding />
         </state>
       </provider>

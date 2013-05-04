@@ -59,9 +59,19 @@ h1.lobster, h2.lobster, h3.lobster, h4.lobster,  h5.lobster, p.lobster {
     background: none;
 }
 
-
-
+div.large-div img.zoomed{
+    position: fixed;
+    left: 16%;
+    top: -45%;
+    max-height: 180%;
+}
+div.large-div{
+    height: 700px;
+}
 
 .pull-left{
     float: left;
+}
+.pull-right{
+    float: right;
 }
